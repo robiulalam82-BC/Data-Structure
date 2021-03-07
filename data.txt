@@ -1,0 +1,3 @@
+Customer        ID       amount  
+Jones         1137        24.55
+Fahad         4433         23.44
